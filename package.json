@@ -1,0 +1,21 @@
+{
+  "name": "express-rest-api",
+  "version": "1.0.0",
+  "description": "Express Rest Api with Express and Node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemo index"
+  },
+  "author": "Yotman Reyes",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "moment": "^2.24.0",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
